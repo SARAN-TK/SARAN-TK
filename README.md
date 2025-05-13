@@ -1,3 +1,10 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SARAN-TK/SARAN-TK/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SARAN-TK/SARAN-TK/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SARAN-TK/SARAN-TK/output/pacman-contribution-graph.svg">
+</picture>
+
+
 <h1 align="center">Hi 👋, I'm Saran TK</h1>
 <h3 align="center">A passionate Programmer from Kerala</h3>
 
