@@ -25,3 +25,8 @@ align="right" height="300" width="330" src="https://camo.githubusercontent.com/2
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saran-tk&show_icons=true&locale=en" alt="saran-tk" /></p>
 
 <hr />
+
+<div align="center">
+<img  src="https://raw.githubusercontent.com/SARAN-TK/SARAN-TK/output/snake.svg" alt="Snake animation" />
+</div>
+
