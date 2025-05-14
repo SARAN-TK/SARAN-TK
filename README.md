@@ -1,10 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SARAN-TK/SARAN-TK/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SARAN-TK/SARAN-TK/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SARAN-TK/SARAN-TK/output/pacman-contribution-graph.svg">
-</picture>
-
-
+<img src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" alt="MasterHead" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poetsen+One&size=35&duration=4000&pause=1000&color=11C2FF&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Saran+TK" alt="Typing SVG" />
 </h1>
