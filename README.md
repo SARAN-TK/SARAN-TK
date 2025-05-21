@@ -14,7 +14,7 @@ align="right" height="290" width="320" src="https://camo.githubusercontent.com/2
 
 - 📫 How to reach me **sarantk15@gmail.com**
 
-- 📄 My Resume **https://saran-tk.github.io/Online-Resume/**
+- <a target=_self> 📄 My Resume **https://saran-tk.github.io/Online-Resume/** </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
